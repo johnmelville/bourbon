@@ -1,0 +1,29 @@
+{
+  "name": "techchops",
+  "version": "0.0.1",
+  "description": "This is a sample project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmelville/bourbon.git"
+  },
+  "author": "John Melville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmelville/bourbon/issues"
+  },
+  "homepage": "https://github.com/johnmelville/bourbon#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
